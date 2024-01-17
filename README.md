@@ -30,7 +30,7 @@ GitHub Pages uses Jekyll. In Jekyll, we can create a blog by using specially nam
 
 ```yml
 ---
-title: "Welcome to my blog"
+title: "Welcome to my Blog"
 date: 2019-01-20
 ---
 ```
